@@ -8,3 +8,13 @@ C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.csproj.CoreC
 C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.exe
 C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.pdb
 C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.Form1.resources
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\bin\Debug\DemoRunExe.exe.config
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\bin\Debug\DemoRunExe.exe
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\bin\Debug\DemoRunExe.pdb
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.csprojAssemblyReference.cache
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.Form1.resources
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.Properties.Resources.resources
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.csproj.GenerateResource.cache
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.csproj.CoreCompileInputs.cache
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.exe
+D:\GitHubPrj\CSharpOpenExe\CsharpOpenOtherExe\DemoRunExe\obj\Debug\DemoRunExe.pdb

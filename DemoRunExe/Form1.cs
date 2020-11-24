@@ -28,7 +28,7 @@ namespace DemoRunExe
 
             Process proc = new Process();
 
-            proc.StartInfo.FileName = "OKW_Prj_Serial.exe";
+            proc.StartInfo.FileName = "calc.exe";
 
             proc.StartInfo.UseShellExecute = false;
 
@@ -44,7 +44,7 @@ namespace DemoRunExe
             proc.StartInfo.WorkingDirectory = Application.StartupPath;
             proc.Start();
 
-            proc.StandardInput.WriteLine("OKW_Prj_Serial.exe");
+            proc.StandardInput.WriteLine("calc.exe");
 
             proc.StandardInput.WriteLine("exit");
 
@@ -65,7 +65,7 @@ namespace DemoRunExe
         // 指定待启动应用程序的名称，然后启动设定的进程程序
         private void button2_Click(object sender, EventArgs e)
         {
-            string procName = "OKW_Prj_Serial.exe";
+            string procName = "calc.exe";
             System.Diagnostics.ProcessStartInfo info = 
                 new System.Diagnostics.ProcessStartInfo(procName);
             info.WorkingDirectory = System.IO.Path.GetDirectoryName(procName); 
@@ -76,7 +76,7 @@ namespace DemoRunExe
         // 直接通过process运行进程程序
         private void button3_Click(object sender, EventArgs e)
         {
-            string procName = "OKW_Prj_Serial.exe";
+            string procName = "calc.exe";
             System.Diagnostics.Process.Start(procName);
         }
     }
