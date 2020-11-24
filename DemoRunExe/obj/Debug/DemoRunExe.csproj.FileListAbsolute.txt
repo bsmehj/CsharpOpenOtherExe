@@ -1,0 +1,10 @@
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\bin\Debug\DemoRunExe.exe.config
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\bin\Debug\DemoRunExe.exe
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\bin\Debug\DemoRunExe.pdb
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.csprojAssemblyReference.cache
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.Properties.Resources.resources
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.csproj.GenerateResource.cache
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.csproj.CoreCompileInputs.cache
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.exe
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.pdb
+C:\Users\hj\source\repos\DemoRunExe\DemoRunExe\obj\Debug\DemoRunExe.Form1.resources
